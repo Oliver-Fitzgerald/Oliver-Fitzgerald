@@ -22,8 +22,6 @@ I am currently studying Computer Systems at the University of Limerick and  have
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Oliver-Fitzgerald&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![](https://github-contributor-stats.vercel.app/api?username=Oliver-Fitzgerald&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Oliver-Fitzgerald/Oliver-Fitzgerald/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Oliver-Fitzgerald/Oliver-Fitzgerald/output/github-snake.svg" />
